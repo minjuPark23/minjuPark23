@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE4E1,100:99CCFF&height=200&section=header&fontSize=90)
 
 <div align="center">
-  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjuPark23&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=minjuPark23&show_icons=true"/>
     
 ### 안녕하세요. 박민주입니다.🙌
   
@@ -31,9 +30,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<div>
-    
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=minjuPark23&show_icons=true"/>
+<div align="center">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjuPark23&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
     
 #### 🛠️ Tech Stack 🛠️
 ##### 💡 used as the main
