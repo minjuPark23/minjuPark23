@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE4E1,100:99CCFF&height=200&section=header&fontSize=90)
 
-<div align="center">
+<div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=minjuPark23&show_icons=true"/>
     
 ### 안녕하세요. 박민주입니다.🙌
-  
+📧 minj5541@naver.com
+
+<a href="https://marked-mulberry-650.notion.site/7ccced18a28e4799921eeb4941fadb13"><img src="https://img.shields.io/badge/Minju_Portfolio-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 <a href="https://solved.ac/minj5541"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=minj5541"/></a>
  
 </div>
@@ -30,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<div align="center">
+<div>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minjuPark23&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
     
